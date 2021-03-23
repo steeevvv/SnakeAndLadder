@@ -1,4 +1,4 @@
-# SnakeAndLadder
+# Snake and Ladder Problem
 Snake and Ladder Problem - Adjacency List Implementation (C++)
 
 This was a Final Group Project for CSE 331 - Data Structures and Algorithms
